@@ -37,15 +37,15 @@ Application web de vente de produits electroniques simples et facile
 
 ## Utilisation
 
-Cette appli permet de parcourir les differents produits disponible sur la plateforme
-Elle permet de creer un compte
-De se connecter via ce compte
-Permet d'ajouter des produits dans un panier (Avoir un compte utilisateur obligatoire)
-Avoir le montant global de tous les produits choisis (Avoir un compte utilisateur obligatoire)
-Retirer des produits d'un panier
-Augmenter le nombre d'un produit dans un panier
-Permettre un paiement (En cours)
-Ajouter un systeme de livraison et surveillance de la tracabilite d'un produit commande (en cours)
+Cette appli permet de parcourir les differents produits disponible sur la plateforme.  
+Elle permet de creer un compte.  
+De se connecter via ce compte.  
+Permet d'ajouter des produits dans un panier (Avoir un compte utilisateur obligatoire).  
+Avoir le montant global de tous les produits choisis (Avoir un compte utilisateur obligatoire).  
+Retirer des produits d'un panier.  
+Augmenter le nombre d'un produit dans un panier.  
+Permettre un paiement (En cours).  
+Ajouter un systeme de livraison et surveillance de la tracabilite d'un produit commande (en cours).  
 
 
 ## Licence
