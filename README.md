@@ -41,7 +41,7 @@ Les.
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous GNU GENERAL PUBLIC LICENSE. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contact
 
